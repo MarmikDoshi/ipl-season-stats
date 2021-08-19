@@ -1,0 +1,93 @@
+[
+  {
+    "model": "iplstats.team",
+    "pk": 1,
+    "fields": {
+      "name": "Sunrisers Hyderabad"
+    }
+  },
+  {
+    "model": "iplstats.team",
+    "pk": 2,
+    "fields": {
+      "name": "Mumbai Indians"
+    }
+  },
+  {
+    "model": "iplstats.team",
+    "pk": 3,
+    "fields": {
+      "name": "Gujarat Lions"
+    }
+  },
+  {
+    "model": "iplstats.team",
+    "pk": 4,
+    "fields": {
+      "name": "Rising Pune Supergiant"
+    }
+  },
+  {
+    "model": "iplstats.team",
+    "pk": 5,
+    "fields": {
+      "name": "Royal Challengers Bangalore"
+    }
+  },
+  {
+    "model": "iplstats.team",
+    "pk": 6,
+    "fields": {
+      "name": "Kolkata Knight Riders"
+    }
+  },
+  {
+    "model": "iplstats.team",
+    "pk": 7,
+    "fields": {
+      "name": "Delhi Daredevils"
+    }
+  },
+  {
+    "model": "iplstats.team",
+    "pk": 8,
+    "fields": {
+      "name": "Kings XI Punjab"
+    }
+  },
+  {
+    "model": "iplstats.team",
+    "pk": 9,
+    "fields": {
+      "name": "Chennai Super Kings"
+    }
+  },
+  {
+    "model": "iplstats.team",
+    "pk": 10,
+    "fields": {
+      "name": "Rajasthan Royals"
+    }
+  },
+  {
+    "model": "iplstats.team",
+    "pk": 11,
+    "fields": {
+      "name": "Deccan Chargers"
+    }
+  },
+  {
+    "model": "iplstats.team",
+    "pk": 12,
+    "fields": {
+      "name": "Kochi Tuskers Kerala"
+    }
+  },
+  {
+    "model": "iplstats.team",
+    "pk": 13,
+    "fields": {
+      "name": "Pune Warriors"
+    }
+  }
+]

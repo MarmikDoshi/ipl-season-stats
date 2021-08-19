@@ -1,0 +1,283 @@
+[
+  {
+    "model": "iplstats.venue",
+    "pk": 1,
+    "fields": {
+      "venue": "Rajiv Gandhi International Stadium, Uppal",
+      "city": "Hyderabad"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 2,
+    "fields": {
+      "venue": "Maharashtra Cricket Association Stadium",
+      "city": "Pune"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 3,
+    "fields": {
+      "venue": "Saurashtra Cricket Association Stadium",
+      "city": "Rajkot"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 4,
+    "fields": {
+      "venue": "Holkar Cricket Stadium",
+      "city": "Indore"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 5,
+    "fields": {
+      "venue": "M Chinnaswamy Stadium",
+      "city": "Bangalore"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 6,
+    "fields": {
+      "venue": "Wankhede Stadium",
+      "city": "Mumbai"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 7,
+    "fields": {
+      "venue": "Eden Gardens",
+      "city": "Kolkata"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 8,
+    "fields": {
+      "venue": "Feroz Shah Kotla",
+      "city": "Delhi"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 9,
+    "fields": {
+      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+      "city": "Chandigarh"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 10,
+    "fields": {
+      "venue": "Green Park",
+      "city": "Kanpur"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 11,
+    "fields": {
+      "venue": "Sawai Mansingh Stadium",
+      "city": "Jaipur"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 12,
+    "fields": {
+      "venue": "MA Chidambaram Stadium, Chepauk",
+      "city": "Chennai"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 13,
+    "fields": {
+      "venue": "Newlands",
+      "city": "Cape Town"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 14,
+    "fields": {
+      "venue": "St George's Park",
+      "city": "Port Elizabeth"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 15,
+    "fields": {
+      "venue": "Kingsmead",
+      "city": "Durban"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 16,
+    "fields": {
+      "venue": "SuperSport Park",
+      "city": "Centurion"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 17,
+    "fields": {
+      "venue": "Buffalo Park",
+      "city": "East London"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 18,
+    "fields": {
+      "venue": "New Wanderers Stadium",
+      "city": "Johannesburg"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 19,
+    "fields": {
+      "venue": "Brabourne Stadium",
+      "city": "Mumbai"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 20,
+    "fields": {
+      "venue": "De Beers Diamond Oval",
+      "city": "Kimberley"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 21,
+    "fields": {
+      "venue": "OUTsurance Oval",
+      "city": "Bloemfontein"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 22,
+    "fields": {
+      "venue": "Sardar Patel Stadium, Motera",
+      "city": "Ahmedabad"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 23,
+    "fields": {
+      "venue": "Barabati Stadium",
+      "city": "Cuttack"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 24,
+    "fields": {
+      "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+      "city": "Nagpur"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 25,
+    "fields": {
+      "venue": "Himachal Pradesh Cricket Association Stadium",
+      "city": "Dharamsala"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 26,
+    "fields": {
+      "venue": "Nehru Stadium",
+      "city": "Kochi"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 27,
+    "fields": {
+      "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+      "city": "Visakhapatnam"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 28,
+    "fields": {
+      "venue": "Subrata Roy Sahara Stadium",
+      "city": "Pune"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 29,
+    "fields": {
+      "venue": "Shaheed Veer Narayan Singh International Stadium",
+      "city": "Raipur"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 30,
+    "fields": {
+      "venue": "JSCA International Stadium Complex",
+      "city": "Ranchi"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 31,
+    "fields": {
+      "venue": "Sheikh Zayed Stadium",
+      "city": "Abu Dhabi"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 32,
+    "fields": {
+      "venue": "Sharjah Cricket Stadium",
+      "city": "Sharjah"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 33,
+    "fields": {
+      "venue": "Dubai International Cricket Stadium",
+      "city": ""
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 34,
+    "fields": {
+      "venue": "Punjab Cricket Association Stadium, Mohali",
+      "city": "Chandigarh"
+    }
+  },
+  {
+    "model": "iplstats.venue",
+    "pk": 35,
+    "fields": {
+      "venue": "Dr DY Patil Sports Academy",
+      "city": "Mumbai"
+    }
+  }
+]
+
